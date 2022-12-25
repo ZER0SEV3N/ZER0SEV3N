@@ -21,7 +21,7 @@
 
 <div>
 
-  <h3 align="left">＊*•̩̩͙✩•̩̩͙*˚　　˚*•̩̩͙✩•̩̩͙*˚＊</h3>
+   <h3 align="left">＊*•̩̩͙✩•̩̩͙*˚　　˚*•̩̩͙✩•̩̩͙*˚＊</h3>
   
   <div align="center">
     <img alt="Coding" width="250" src="https://i.pinimg.com/564x/f6/de/72/f6de72aab17f714c57be0dcb16ee9e73.jpg">
