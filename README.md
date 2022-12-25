@@ -23,8 +23,7 @@
  <h3 align="right">.......＊*•̩̩͙✩•̩̩͙*˚　✧　˚*•̩̩͙✩•̩̩͙*˚＊.......</h3>
   
  <img align="right" alt="Coding" width="270" src="https://i.pinimg.com/564x/f6/de/72/f6de72aab17f714c57be0dcb16ee9e73.jpg">
- 
- </div>
+  </div>
  
 -> 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 <3
 
@@ -37,8 +36,6 @@
 ----->
 
 ------> 
-
-</div>
 
 <!--
 **ZER0SEV3N/ZER0SEV3N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
