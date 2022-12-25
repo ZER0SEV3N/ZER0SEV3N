@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <h1> ༺☆༻ <img src="assets/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
+</div>
+
+<div align="center">
+  <img alt="Coding" width="250" src="https://i.pinimg.com/564x/f6/de/72/f6de72aab17f714c57be0dcb16ee9e73.jpg">
+</div>
 
 <!--
 **ZER0SEV3N/ZER0SEV3N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
