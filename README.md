@@ -20,7 +20,7 @@
 </div>
 
 <div> 
- <h3 align="right">.....＊*•̩̩͙✩•̩̩͙*˚　✧　˚*•̩̩͙✩•̩̩͙*˚＊.....</h3>
+ <h3 align="right">.......＊*•̩̩͙✩•̩̩͙*˚　✧　˚*•̩̩͙✩•̩̩͙*˚＊.......</h3>
   
  <img align="right" alt="Coding" width="270" src="https://i.pinimg.com/564x/f6/de/72/f6de72aab17f714c57be0dcb16ee9e73.jpg">
  
